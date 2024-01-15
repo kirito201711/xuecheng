@@ -27,7 +27,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-        <!--tttttttttttttttttttttttttttttttt -->
+        <!--tttttttttttttttttttttttttttttrttt -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-dependencies</artifactId>
